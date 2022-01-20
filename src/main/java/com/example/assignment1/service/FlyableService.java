@@ -1,0 +1,4 @@
+package com.example.assignment1.service;
+
+public interface FlyableService extends MovableService {
+}
